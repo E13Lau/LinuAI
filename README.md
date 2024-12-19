@@ -15,3 +15,5 @@ The 0.5.1.alpha version of our third-party AI chat robot is here!🎉
 - Supports the Claude model, making chatting more intelligent.
 - 
 - Supports the MCP protocol to call local tools, with stronger functions.
+
+![image](https://github.com/E13Lau/LinuChat/blob/main/20241217151305.jpg)
