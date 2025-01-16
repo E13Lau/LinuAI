@@ -7,8 +7,8 @@
             <title>Version 0.9.0</title>
             <sparkle:version>0.9.0</sparkle:version>
             <sparkle:releaseNotesLink>https://github.com/E13Lau/LinuAI</sparkle:releaseNotesLink>
-            <pubDate>Thu, 16 Jan 2025 13:43:59 +0800</pubDate>
-            <enclosure url="https://github.com/E13Lau/LinuAI/releases/download/v0.9.0/LinuAI.zip" sparkle:edSignature="sparkle:edSignature="UX5hFBrR2Q6vQyU4PTepz5NwXuNBfzLdlpIoklOqe/EYs/ORycDRA8mHQTalCYHeBRBycCjpUK6sMOzR/ipyAg==" length="42822595"" length="42822595" type="application/octet-stream" />
+            <pubDate>Thu, 16 Jan 2025 15:12:22 +0800</pubDate>
+            <enclosure url="https://github.com/E13Lau/LinuAI/releases/download/v0.9.0/LinuAI.zip" sparkle:edSignature="V0N+nBlRy+1B1Qo019d47JSIOmcCOifF5UB4P/Z5YqsVIlhHXmwWLbJgQ15ipjM4OlGQUeLuwmt2W9kkTVwWCQ==" length="42822595" length="42822595" type="application/octet-stream" />
         </item>
     </channel>
 </rss>
