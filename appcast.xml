@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0"
+    xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle">
+    <channel>
+        <title>App Updates</title>
+        <item>
+            <title>Version 0.8.0</title>
+            <sparkle:version>0.8.0</sparkle:version>
+            <sparkle:releaseNotesLink>https://github.com/E13Lau/LinuAI</sparkle:releaseNotesLink>
+            <pubDate>Wed,
+09 Jan 2024 19: 20: 11 +0000</pubDate>
+            <enclosure url="https://github.com/E13Lau/LinuAI/releases/download/v0.8.1/LinuAI.dmg" sparkle:edSignature="..." length="1623481" type="application/octet-stream" />
+        </item>
+    </channel>
+</rss>
