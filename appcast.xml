@@ -4,12 +4,12 @@
     <channel>
         <title>LinuAI Updates</title>
         <item>
-            <title>0.9.2(92)</title>
-            <sparkle:version>92</sparkle:version>
-            <sparkle:shortVersionString>0.9.2</sparkle:shortVersionString>
+            <title>0.9.3(94)</title>
+            <sparkle:version>94</sparkle:version>
+            <sparkle:shortVersionString>0.9.3</sparkle:shortVersionString>
             <sparkle:releaseNotesLink>https://github.com/E13Lau/LinuAI</sparkle:releaseNotesLink>
-            <pubDate>Thu, 16 Jan 2025 21:26:53 +0800</pubDate>
-            <enclosure url="https://github.com/E13Lau/LinuAI/releases/download/v0.9.2/LinuAI.zip" sparkle:edSignature="uSthThQD42YUk0Dt6cCUZILluEPoLvI4a9RvfwZ6ncvFkbwDsEcXgmKZY4sMwE90cP1Bxzh4qQW/7FMACKLXDA==" length="42565956" type="application/octet-stream" />
+            <pubDate>Thu, 16 Jan 2025 21:52:55 +0800</pubDate>
+            <enclosure url="https://github.com/E13Lau/LinuAI/releases/download/v0.9.3/LinuAI.zip" sparkle:edSignature="X8GTJTpDMA46NtU9x3r7qXe42je/S3tAo6bm0G2fWuwDZ+cF8B4GQqMs9i5SwVX532WrrrUi8Yg56boi1TLsBA==" length="42566188" type="application/octet-stream" />
         </item>
     </channel>
 </rss>
